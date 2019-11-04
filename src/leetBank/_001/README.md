@@ -69,4 +69,4 @@ def twoSum(self, nums, target) :
 
 
 
-[title]: https://github.com/mocHeart/LeetCode/tree/master/src/leetBank/_001
+[title]: https://leetcode.com/problems/two-sum/
