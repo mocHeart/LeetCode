@@ -19,7 +19,7 @@ Explanation:
     342 + 465 = 807.
 ```
 
-**Tags:** Array, Hash Table
+**Tags:** Linked List
 
 
 ## 思路1
@@ -30,7 +30,7 @@ Explanation:
 使用if-else太冗长(见源码)
 
 
-+ leetcode solution
++ LeetCode Solution
 活用三目运算符
 ```java
 public ListNode addTwoNumbers2(ListNode l1, ListNode l2) {
