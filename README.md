@@ -11,6 +11,7 @@ LeetCode解题之路
 | 6 | [Z字形变换][006] | 中等 | 字符串 |
 | 7 | [整数反转][007] | 简单 | 数学 |
 | 8 | [字符串转换整数][008] | 中等 | 数学 & 字符串 |
+| 9 | [回文数][009] | 中等 | 数学 |
 
 
 
@@ -28,3 +29,4 @@ LeetCode解题之路
 [006]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_006
 [007]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_007
 [008]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_008
+[009]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_009
