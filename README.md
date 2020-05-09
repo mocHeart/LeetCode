@@ -22,7 +22,8 @@ LeetCode解题之路
 | 17 | [电话号码的字母组合][017] | 中等 | 字符串 & 回溯算法 |
 | 18 | [四数之和][018] | 中等 | 字符串 & 双指针 |
 | 19 | [删除链表的倒数第N个节点][019] | 中等 | 链表 & 双指针 |
-| 20 | [有效的括号][019] | 简单 | 栈 & 字符串 |
+| 20 | [有效的括号][020] | 简单 | 栈 & 字符串 |
+| 21 | [合并两个有序链表][021] | 简单 | 链表 |
 
 
 
@@ -52,3 +53,4 @@ LeetCode解题之路
 [018]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_018
 [019]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_019
 [020]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_020
+[021]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_021
