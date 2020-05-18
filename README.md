@@ -27,6 +27,7 @@ LeetCode解题之路
 | 22 | [括号生成][022] | 中等 | 字符串 & 回溯算法 |
 | 23 | [合并K个排序链表][023] | 困难 | 堆 & 链表 & 分治算法 |
 | 24 | [两两交换链表中的节点][024] | 中等 | 链表 |
+| 25 | [K 个一组翻转链表][025] | 困难 | 链表 |
 
 
 
@@ -60,3 +61,4 @@ LeetCode解题之路
 [022]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_022
 [023]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_023
 [024]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_024
+[025]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_025
