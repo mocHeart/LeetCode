@@ -28,6 +28,7 @@ LeetCode解题之路
 | 23 | [合并K个排序链表][023] | 困难 | 堆 & 链表 & 分治算法 |
 | 24 | [两两交换链表中的节点][024] | 中等 | 链表 |
 | 25 | [K 个一组翻转链表][025] | 困难 | 链表 |
+| 26 | [删除排序数组中的重复项][026] | 简单 | 数组 & 双指针 |
 
 
 
@@ -62,3 +63,4 @@ LeetCode解题之路
 [023]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_023
 [024]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_024
 [025]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_025
+[026]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_026
