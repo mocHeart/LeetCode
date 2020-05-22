@@ -31,6 +31,7 @@ LeetCode解题之路
 | 26 | [删除排序数组中的重复项][026] | 简单 | 数组 & 双指针 |
 | 27 | [移除元素][027] | 简单 | 数组 & 双指针 |
 | 28 | [实现 strStr()][028] | 简单 | 字符串 & 双指针 |
+| 29 | [两数相除][029] | 中等 | 数学 & 二分查找 |
 
 
 
@@ -68,3 +69,4 @@ LeetCode解题之路
 [026]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_026
 [027]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_027
 [028]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_028
+[029]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_029
