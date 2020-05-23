@@ -32,6 +32,7 @@ LeetCode解题之路
 | 27 | [移除元素][027] | 简单 | 数组 & 双指针 |
 | 28 | [实现 strStr()][028] | 简单 | 字符串 & 双指针 |
 | 29 | [两数相除][029] | 中等 | 数学 & 二分查找 |
+| 30 | [串联所有单词的子串][030] | 困难 | 哈希表 & 双指针 & 字符串 |
 
 
 
@@ -70,3 +71,4 @@ LeetCode解题之路
 [027]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_027
 [028]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_028
 [029]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_029
+[030]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_030
