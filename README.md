@@ -34,6 +34,7 @@ LeetCode解题之路
 | 29 | [两数相除][029] | 中等 | 数学 & 二分查找 |
 | 30 | [串联所有单词的子串][030] | 困难 | 哈希表 & 双指针 & 字符串 |
 | 31 | [下一个排列][031] | 中等 | 数组 |
+| 32 | [最长有效括号][032] | 困难 | 字符串 & 动态规划 |
 
 
 
@@ -74,3 +75,4 @@ LeetCode解题之路
 [029]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_029
 [030]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_030
 [031]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_031
+[032]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_032
