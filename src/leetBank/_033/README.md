@@ -10,16 +10,17 @@
 
 **示例:**
 ```
+示例 1:
 输入: nums = [4,5,6,7,0,1,2], target = 0
 输出: 4
-示例 2:
 
+示例 2:
 输入: nums = [4,5,6,7,0,1,2], target = 3
 输出: -1
 
 ```
 
-**标签:**  数组&二分查找
+**标签:**  数组 & 二分查找
 
 
 ## 思路
@@ -31,4 +32,4 @@
   二分法属于经典查找算法，务必掌握！
    
    
-[title]: https://leetcode-cn.com/problems/longest-valid-parentheses/
+[title]: https://leetcode-cn.com/problems/search-in-rotated-sorted-array/

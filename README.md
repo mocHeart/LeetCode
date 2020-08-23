@@ -36,6 +36,7 @@ LeetCode解题之路
 | 31 | [下一个排列][031] | 中等 | 数组 |
 | 32 | [最长有效括号][032] | 困难 | 字符串 & 动态规划 |
 | 33 | [搜索旋转排序数组][033] | 中等 | 数组 & 二分查找 |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置][033] | 中等 | 数组 & 二分查找 |
 
 
 
@@ -78,3 +79,4 @@ LeetCode解题之路
 [031]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_031
 [032]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_032
 [033]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_033
+[034]: https://github.com/mocHeart/leetcode/tree/master/src/leetBank/_034
